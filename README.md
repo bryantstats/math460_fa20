@@ -21,5 +21,5 @@
 
 ### Exam 1
 
-- [Link to Exam 1](1_Fall20/Exam1/Exam1.html)
-- [Similar Solution for Problem 2](1_Fall20/Exam1/Exam1_sol.html)
+- [Link to Exam 1](Exam1/Exam1.html)
+- [Similar Solution for Problem 2](Exam1/Exam1_sol.html)
